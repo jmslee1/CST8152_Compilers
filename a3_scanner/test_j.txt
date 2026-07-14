@@ -1,0 +1,4 @@
+# comment
+
+if crash_detected then enable_ntn;
+run recovery;
