@@ -1,0 +1,11 @@
+**/launch.vs.json
+**/.vs/
+**/out/
+**/build/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.o
+CMakeCache.txt
+CMakeFiles/

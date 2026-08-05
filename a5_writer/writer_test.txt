@@ -1,0 +1,9 @@
+# J-LANG writer test
+PI = 3.14
+r = 2.0
+Vol = (4.0 / 3.0) * PI * (r * r * r)
+log(Vol)
+name = "James"
+log(name)
+flag = true
+log(flag)

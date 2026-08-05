@@ -1,0 +1,5 @@
+# J-LANG A5 - hello / strings
+msg = "Hello J-LANG"
+log(msg)
+title = "Writer demo"
+log(title)
